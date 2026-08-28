@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AkshaySArun">
-    <img src="https://komarev.com/ghpvc/?username=AkshaySArun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <a href="https://github.com/AkshaySArun"><img src="https://img.shields.io/badge/GitHub-AkshaySArun-161b22?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/akshaysarun"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
@@ -16,36 +15,44 @@
 
 I'm an **MCA student** with hands-on experience in **full-stack software development, Python, Java, data structures and algorithms, and object-oriented programming**.
 
-I enjoy turning ideas and requirements into working applications, learning new technologies, and solving problems through practical software engineering.
+I enjoy turning ideas into working applications and exploring how **AI/ML can make software more intelligent, useful and engaging**.
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 💻 Interested in **Full-Stack Development, AI/ML and Software Engineering**
-- 🌱 Exploring **AI/ML, backend engineering and modern web technologies**
-- 🧠 Strong foundation in **DSA, OOP and SDLC**
-- 🚀 Built applications using **Next.js, React.js, Node.js, Flask and MySQL**
-- 🤝 Open to collaboration, learning and building useful products
+- 💻 Full-Stack Developer with a growing **AI/ML focus**
+- 🐍 Comfortable with **Python & Java**
+- 🧠 Strong foundation in **DSA, OOP & SDLC**
+- 🚀 Building with **React, Next.js, Node.js, Flask & MySQL**
+- 🌱 Always learning, experimenting and building
 
 ---
 
-## 🛠️ Languages & Tools
+## 🤖 AI / ML Journey
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,kotlin,html,css,js,react,nextjs,nodejs,flask,mysql,supabase,git,androidstudio" alt="Languages and tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7EE787&center=true&vCenter=true&width=700&lines=Exploring+Machine+Learning+%F0%9F%A7%A0;Building+AI-powered+applications+%F0%9F%A4%96;Learning+%26+experimenting+with+Python+%F0%9F%90%8D;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="AI ML animation" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="180">🧠<br><b>Machine Learning</b><br><sub>Exploring</sub></td>
+<td align="center" width="180">🤖<br><b>AI Applications</b><br><sub>Building</sub></td>
+<td align="center" width="180">🐍<br><b>Python</b><br><sub>Developing</sub></td>
+<td align="center" width="180">📊<br><b>Data Structures</b><br><sub>Practicing</sub></td>
+<td align="center" width="180">💻<br><b>Full-Stack</b><br><sub>Building</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <b>🧩 Learn → Experiment → Build → Improve</b>
 </p>
 
 ---
 
-## 🤖 AI / ML Focus
+## 🛠️ Tech Stack
 
-```text
-Machine Learning        ███████████████░░░░░░  Exploring
-AI Applications         ███████████████░░░░░░  Building
-Python                  ███████████████████░░  Strong
-Data Structures & Algo  █████████████████░░░░  Practicing
-Full-Stack Development  ████████████████████░  Building
-```
-
-I'm especially interested in combining **AI with practical software products**—from intelligent recommendations to useful developer and user-facing applications.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,kotlin,html,css,js,react,nextjs,nodejs,flask,mysql,supabase,git,androidstudio" alt="Languages and tools" />
+</p>
 
 ---
 
@@ -58,21 +65,19 @@ An AI-powered Progressive Web App for discovering and registering for local even
 **Tech:** `Next.js` `React.js` `Node.js` `MySQL`
 
 - 🔎 Search, filter and register for local events
-- 🤖 Recommendation feature based on user interests and location
-- ☁️ Integrated cloud services for storage and delivery
-- 📱 Designed for responsiveness and reliable use across devices
-
----
+- 🤖 Recommendations based on user interests and location
+- ☁️ Cloud services for storage and delivery
+- 📱 Responsive experience across devices
 
 ### 🪞 Spellbound Speculum — Smart Mirror
 
-An academic smart-mirror project combining hardware and software to display useful digital information through a reflective display.
+An academic smart-mirror project combining hardware and software to display useful digital information.
 
-- 🕐 Time information
-- 🌦️ Weather information
+- 🕐 Time
+- 🌦️ Weather
 - 🔔 Notifications
 - 🖥️ Interactive interface
-- 🔄 Iterative testing and UI refinement
+- 🔄 Iterative UI testing and refinement
 
 ---
 
@@ -83,7 +88,7 @@ An academic smart-mirror project combining hardware and software to display usef
 
 - Completed a 4-month industry internship focused on Python and Full-Stack Development.
 - Developed responsive web applications with frontend, backend and database integration.
-- Applied object-oriented programming, debugging and SDLC practices.
+- Applied OOP, debugging and SDLC practices.
 - Strengthened problem-solving, collaboration and software development skills.
 
 ---
@@ -92,20 +97,20 @@ An academic smart-mirror project combining hardware and software to display usef
 
 **Master of Computer Applications (MCA)**  
 Vidya Vikas Institute of Engineering and Technology (VTU), Mysuru  
-**Expected 2026 · CGPA: 8.24**
+`Expected 2026` · **CGPA 8.24**
 
 **Bachelor of Computer Applications (BCA)**  
 Seshadripuram College, Tumakuru University  
-**2024 · CGPA: 8.22**
+`2024` · **CGPA 8.22**
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 📜 **NPTEL Certification — Advanced Graph Theory**
-- 📜 **VTU Online Certification — Reinforcement Learning**
-- 🥈 **2nd Place — Project Presentation**, National-level Faculty Development Program on Computer Multimedia and Animation using Block Coding
-- 🥉 **3rd Place — Patch Frenzy (Debugging)**, TechnoVVISTA 2.0, VVIET Mysuru
+- 📜 NPTEL — **Advanced Graph Theory**
+- 📜 VTU Online Certification — **Reinforcement Learning**
+- 🥈 **2nd Place** — Project Presentation, National-level Faculty Development Program
+- 🥉 **3rd Place** — Patch Frenzy (Debugging), TechnoVVISTA 2.0
 
 ---
 
@@ -122,7 +127,7 @@ Seshadripuram College, Tumakuru University
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySArun&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
@@ -133,29 +138,15 @@ Seshadripuram College, Tumakuru University
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AkshaySArun">
-    <img src="https://img.shields.io/badge/GitHub-AkshaySArun-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/akshaysarun">
-    <img src="https://img.shields.io/badge/LinkedIn-Akshay%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:akshaysarun30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 💭 Current Mindset
-
-> **Learn → Build → Test → Improve → Repeat 🚀**
-
-<p align="center">
-  <i>Building at the intersection of software engineering and AI.</i>
+  <a href="https://github.com/AkshaySArun"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/akshaysarun"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:akshaysarun30@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Building at the intersection of software engineering and AI 🤖</i>
 </p>
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
