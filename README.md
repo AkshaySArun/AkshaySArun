@@ -127,51 +127,10 @@ Seshadripuram College, Tumakuru University
 
 ---
 
-## 🌱 My Developer Growth
-
-> **A simple visual roadmap — not a replacement for GitHub's real contribution history.**
-
-<table align="center">
-<tr>
-<th>Year</th>
-<th>Focus</th>
-<th>Target activity</th>
-</tr>
-<tr>
-<td align="center"><b>2023</b></td>
-<td>🌱 Starting the journey</td>
-<td>🟩🟩🟩🟩🟩🟩 30+</td>
-</tr>
-<tr>
-<td align="center"><b>2024</b></td>
-<td>📚 Learning & projects</td>
-<td>🟩🟩🟩🟩🟩🟩🟩 35+</td>
-</tr>
-<tr>
-<td align="center"><b>2025</b></td>
-<td>🚀 Building & experimenting</td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩 40+</td>
-</tr>
-<tr>
-<td align="center"><b>2026</b></td>
-<td>🤖 AI + Full-Stack</td>
-<td>🟩🟩🟩🟩🟩🟩🟩🟩🟩 45+</td>
-</tr>
-</table>
+## 📈 Contribution Graph
 
 <p align="center">
-  <b>30 → 35 → 40 → 45</b><br>
-  <sub>Gradual growth • Consistent learning • No inflated numbers</sub>
-</p>
-
-> ⚠️ The numbers above are **personal activity targets/visual goals**, not claimed GitHub contribution totals. Your actual GitHub contribution graph remains based on your real activity.
-
----
-
-## 📈 Real GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySArun&theme=tokyo-night&hide_border=true" alt="Real GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySArun&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
 </p>
 
 ---
