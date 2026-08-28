@@ -1,7 +1,7 @@
 # Hi, I'm Akshay S 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=MCA+Student+%7C+Full-Stack+Developer;Python+%7C+Java+%7C+React+%7C+Next.js;AI%2FML+Enthusiast;Building+practical+software%2C+one+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=MCA+Graduate+%7C+Full-Stack+Developer;Python+%7C+Java+%7C+React+%7C+Next.js;AI%2FML+Enthusiast;Building+practical+software%2C+one+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-I'm an **MCA student** with hands-on experience in **full-stack software development, Python, Java, data structures and algorithms, and object-oriented programming**.
+I'm an **MCA graduate** with hands-on experience in **full-stack software development, Python, Java, data structures and algorithms, and object-oriented programming**.
 
 I enjoy turning ideas into working applications and exploring how **AI/ML can make software more intelligent, useful and engaging**.
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 🎓 **Master of Computer Applications (MCA) — Completed**
 - 💻 Full-Stack Developer with a growing **AI/ML focus**
 - 🐍 Comfortable with **Python & Java**
 - 🧠 Strong foundation in **DSA, OOP & SDLC**
@@ -97,7 +97,7 @@ An academic smart-mirror project combining hardware and software to display usef
 
 **Master of Computer Applications (MCA)**  
 Vidya Vikas Institute of Engineering and Technology (VTU), Mysuru  
-`Expected 2026` · **CGPA 8.24**
+`Completed 2026` · **CGPA 8.24**
 
 **Bachelor of Computer Applications (BCA)**  
 Seshadripuram College, Tumakuru University  
