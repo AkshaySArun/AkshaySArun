@@ -129,7 +129,7 @@ Seshadripuram College, Tumakuru University
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshaySArun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub stats" />
@@ -138,7 +138,7 @@ Seshadripuram College, Tumakuru University
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AkshaySArun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p> -->
+</p> 
 
 ---
 
@@ -148,7 +148,7 @@ Seshadripuram College, Tumakuru University
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshaySArun&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
 </p>
 
----
+--- -->
 
 ## 🌐 Connect With Me
 
