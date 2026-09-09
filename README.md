@@ -5,8 +5,23 @@
 </p>
 
 <p align="center">
+  <a href="https://akshays.dpdns.org/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/AkshaySArun"><img src="https://img.shields.io/badge/GitHub-AkshaySArun-161b22?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/akshaysarun"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://akshays.dpdns.org/">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-akshays.dpdns.org-111827?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my projects, skills, experience and developer journey.</i>
 </p>
 
 ---
@@ -138,6 +153,7 @@ Seshadripuram College, Tumakuru University
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://akshays.dpdns.org/"><img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/AkshaySArun"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/akshaysarun"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:akshaysarun30@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail" /></a>
